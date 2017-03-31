@@ -1,0 +1,17 @@
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\bin\Debug\WpfApplication3_ardim.exe.config
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim.csprojResolveAssemblyReference.cache
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\MainWindow.g.cs
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\App.g.cs
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim_MarkupCompile.cache
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim_MarkupCompile.lref
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\bin\Debug\WpfApplication3_ardim.exe
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\bin\Debug\WpfApplication3_ardim.pdb
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\MainWindow.baml
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim.g.resources
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim.Properties.Resources.resources
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim.csproj.GenerateResource.Cache
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim.exe
+c:\users\poulomi pal\documents\visual studio 2015\Projects\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim.pdb
+D:\Demustango\Tasks\task_02\WPF_GUI\WpfApplication3_ardim\WpfApplication3_ardim\bin\Debug\WpfApplication3_ardim.exe.config
+D:\Demustango\Tasks\task_02\WPF_GUI\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim.exe
+D:\Demustango\Tasks\task_02\WPF_GUI\WpfApplication3_ardim\WpfApplication3_ardim\obj\Debug\WpfApplication3_ardim.pdb

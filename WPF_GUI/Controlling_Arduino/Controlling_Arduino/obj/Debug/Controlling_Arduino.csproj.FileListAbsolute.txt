@@ -1,0 +1,17 @@
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\bin\Debug\Controlling_Arduino.exe.config
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino.csprojResolveAssemblyReference.cache
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\MainWindow.g.cs
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\App.g.cs
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino_MarkupCompile.cache
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino_MarkupCompile.lref
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\bin\Debug\Controlling_Arduino.exe
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\bin\Debug\Controlling_Arduino.pdb
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\MainWindow.baml
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino.g.resources
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino.Properties.Resources.resources
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino.csproj.GenerateResource.Cache
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino.exe
+c:\users\poulomi pal\documents\visual studio 2015\Projects\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino.pdb
+D:\Demustango\Tasks\task_02\WPF_GUI\Controlling_Arduino\Controlling_Arduino\bin\Debug\Controlling_Arduino.exe.config
+D:\Demustango\Tasks\task_02\WPF_GUI\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino.exe
+D:\Demustango\Tasks\task_02\WPF_GUI\Controlling_Arduino\Controlling_Arduino\obj\Debug\Controlling_Arduino.pdb
